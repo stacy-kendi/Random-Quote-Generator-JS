@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/water.jpg);
+    text-align: center;
+    align-content: center;
+    padding-top: 250px;
+    padding-bottom: 5px;
+}
+
+h1{
+    color: red;
+    font-size: 40px;
+}
+
+#displayQuotes {
+    font-size :30px;
+    
+}
